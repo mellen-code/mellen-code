@@ -39,7 +39,7 @@ See [my website](https://mariesmith.netlify.app/) for more information!
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://ariadne-actress-model.netlify.app/" target="_blank">
@@ -49,11 +49,12 @@ See [my website](https://mariesmith.netlify.app/) for more information!
         <p><strong>Javascript, HTML, CSS</strong> - Elegant and easy–to–view website showcasing a professional artist.</p>
     </td>
 
-     <td width="50%" valign="top">
+<tr>
+    <td width="50%" valign="top">
       <h3 align="center">Portfolio site</h3>
         <br />
-      <a target="_blank" href="https://mariesmith.netlify.app/">
-            <img src="images/screengrab-roller-site.png" width="100%"  alt="Portfolio site"/>
+        <a target="_blank" href="https://mariesmith.netlify.app/">
+            <img src="images/screengrab-roller-site.png" width="100%" alt="Portfolio Website"/>
         </a>
         <br />
         <p align="center">
