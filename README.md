@@ -49,8 +49,8 @@ See [my website](https://mariesmith.netlify.app/) for more information!
         <p><strong>Javascript, HTML, CSS</strong> - Elegant and easy–to–view website showcasing a professional artist.</p>
     </td>
 
-<tr>
-    <td width="50%" valign="top">
+
+<td width="50%" valign="top">
       <h3 align="center">Portfolio site</h3>
         <br />
         <a target="_blank" href="https://mariesmith.netlify.app/">
