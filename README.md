@@ -18,9 +18,8 @@
   </a>
 </p>
 
-Software engineer based in New York City, nurturing my passion for solving challenges by programming things for the web. Previously I enjoyed gaining experience in corporate project & event management, as well as performing on several NYC and regional stages. 
-
-I've developed a set of skills that is uniquely suited to the web development and data analysis spaces - improving systems and processes, making content decisions, and working with a diverse group of people to achieve a goal.
+Software engineer based in New York City, previously a corporate project manager and dancer/singer. 
+Nurturing my passion for solving challenges by programming things for the web.
 
 
 See [my website](https://mariesmith.netlify.app/) for more information!
@@ -34,7 +33,7 @@ See [my website](https://mariesmith.netlify.app/) for more information!
       <h3 align="center">ariadne-ellis.com</h3>
         <br />
         <a target="_blank" href="https://ariadne-actress-model.netlify.app/">
-            <img src="images/screengrab-actress-site.png" width="100%" alt="Actress Website"/>
+            <img src="https://media.giphy.com/media/qSBZ0vMEgivr8G24Ny/giphy.gif" width="100%" alt="Actress Website"/>
         </a>
         <br />
         <p align="center">
