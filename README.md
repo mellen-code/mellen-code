@@ -53,7 +53,7 @@ See [my website](https://mariesmith.me/) for more information!
       <h3 align="center">The Metropolitan Museum of Art Generator</h3>
         <br />
         <a target="_blank" href="https://artgenerator-themetmuseum.netlify.app/">
-            <img src="https://media.giphy.com/media/34Q93NLtrowY8XXazg/giphy.gif" width="100%" alt="Metropolitan Museum of Art Generator"/>
+            <img src="https://media.giphy.com/media/HdH82S9MPWdWmUk6eg/giphy.gif" width="100%" alt="Metropolitan Museum of Art Generator"/>
         </a>
         <br />
         <p align="center">
