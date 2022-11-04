@@ -38,7 +38,7 @@ See [my website](https://mariesmith.me/) for more information!
         <br />
         <p align="center">
           
-  <a href="" target="_blank">
+  <a href="https://github.com/mellen-code/ariadne-ellis" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://ariadne-actress-model.netlify.app/" target="_blank">
@@ -50,6 +50,47 @@ See [my website](https://mariesmith.me/) for more information!
 
 
 <td width="50%" valign="top">
+      <h3 align="center">The Metropolitan Museum of Art Generator</h3>
+        <br />
+        <a target="_blank" href="https://artgenerator-themetmuseum.netlify.app/">
+            <img src="https://media.giphy.com/media/34Q93NLtrowY8XXazg/giphy.gif" width="100%" alt="Metropolitan Museum of Art Generator"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/mellen-code/Metropolitan-Museum-Art-Generator" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://artgenerator-themetmuseum.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, HTML, CSS</strong> - Browse the vast art collections of New York City's The Metropolitan Museum of Art, thanks to their comprehensive API.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">mariesmith.me</h3>
+        <br />
+        <a target="_blank" href="https://mariesmith.me/">
+            <img src="https://media.giphy.com/media/BXLT2FUtBYmKDGl0nd/giphy.gif" width="100%" alt="Portfolio Website"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/mellen-code/portfolio-website" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://mariesmith.me" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, HTML, CSS</strong> - My portfolio website including links to my projects and ways to get in contact with me. Near-perfect Lighthouse score.</p>
+    </td>
+
+
+<!-- <td width="50%" valign="top">
       <h3 align="center">mariesmith.me</h3>
         <br />
         <a target="_blank" href="https://mariesmith.me/">
@@ -66,7 +107,7 @@ See [my website](https://mariesmith.me/) for more information!
   </a>
       </p>
         <p><strong>Javascript, HTML, CSS</strong> - Portfolio Site including links to my projects and ways to get in contact with me. Perfect Lighthouse score.</p>
-    </td>
+    </td> -->
   </tr>
   
 </table>
@@ -92,7 +133,7 @@ See [my website](https://mariesmith.me/) for more information!
     <!-- <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=98bf53&style=plastic&logo=adobe"/> -->
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
-    <!-- <img src="https://img.shields.io/static/v1?label=|&message=WEBPACK&color=bbb111&style=plastic&logo=webpack"/> -->
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBPACK&color=bbb111&style=plastic&logo=webpack"/>
     <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
     <!-- <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cbb148&style=plastic&logo=firebase"/> -->
