@@ -18,7 +18,7 @@
   </a>
 </p>
 
-Software engineer based in New York City, previously a corporate project manager with a background in the health sciences. 
+Software engineer based in New York City, previously a corporate project manager with a background in the arts and health sciences. 
 Nurturing my passion for solving challenges by programming things for the web.
 
 
@@ -90,24 +90,24 @@ See [my website](https://mariesmith.me/) for more information!
     </td>
 
 
-<!-- <td width="50%" valign="top">
-      <h3 align="center">mariesmith.me</h3>
+<td width="50%" valign="top">
+      <h3 align="center">Guilty Pleasures Cabaret Match Game</h3>
         <br />
-        <a target="_blank" href="https://mariesmith.me/">
-            <img src="https://media.giphy.com/media/BXLT2FUtBYmKDGl0nd/giphy.gif" width="100%" alt="Portfolio Website"/>
+        <a target="_blank" href="https://gpc-matchgame.netlify.app/">
+            <img src="https://media.giphy.com/media/Ktvwkdu0XaM6bEJv7K/giphy.gif" width="100%" alt="Match Game Website"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="" target="_blank">
+  <a href="https://github.com/mellen-code/match-game" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://mariesmith.me" target="_blank">
+  <a href="https://gpc-matchgame.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML, CSS</strong> - Portfolio Site including links to my projects and ways to get in contact with me. Perfect Lighthouse score.</p>
-    </td> -->
+        <p><strong>Javascript, HTML, CSS</strong>Matching game featuring the talented performers of NYC-based, female-led Guilty Pleasures Cabaret.</p>
+    </td>
   </tr>
   
 </table>
