@@ -106,7 +106,7 @@ See [my website](https://mariesmith.me/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML, CSS</strong> - Matching game featuring the talented performers of NYC-based, female-led Guilty Pleasures Cabaret.</p>
+        <p><strong>Javascript, HTML, CSS</strong> - Matching game featuring the talented performers of NYC-based, female-led GPC Entertainment Group.</p>
     </td>
   </tr>
   
