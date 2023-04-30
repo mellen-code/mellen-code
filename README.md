@@ -19,7 +19,7 @@
 </p>
 
 Software engineer based in New York City, previously a corporate project manager with a background in the arts and health sciences. 
-Nurturing my passion for solving challenges by programming things for the web.
+Nurturing my passion for exploring challenges by programming things for the web.
 
 
 See [my website](https://mariesmith.me/) for more information!
@@ -45,7 +45,7 @@ See [my website](https://mariesmith.me/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML, CSS</strong> - Elegant and easy–to–view website showcasing a professional actress.</p>
+        <p><strong>JavaScript, HTML, CSS</strong> - Elegant and easy–to–view website showcasing a professional actress.</p>
     </td>
 
 
@@ -65,7 +65,7 @@ See [my website](https://mariesmith.me/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML, CSS</strong> - Browse the vast art collections of New York City's The Metropolitan Museum of Art, thanks to their comprehensive API.</p>
+        <p><strong>JavaScript, HTML, CSS</strong> - Browse the vast art collections of New York City's The Metropolitan Museum of Art, thanks to their comprehensive API.</p>
     </td>
   </tr>
 
@@ -74,7 +74,7 @@ See [my website](https://mariesmith.me/) for more information!
       <h3 align="center">mariesmith.me</h3>
         <br />
         <a target="_blank" href="https://mariesmith.me/">
-            <img src="https://media.giphy.com/media/BXLT2FUtBYmKDGl0nd/giphy.gif" width="100%" alt="Portfolio Website"/>
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RkY2ZjYWM5ZTc4NDAwMzQwOTJhNTQ4ZDU5MzcyMjgyYjE3ODNiMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/eukp4n5vbKaQ1V2hNx/giphy.gif" width="100%" alt="Portfolio Website"/>
         </a>
         <br />
         <p align="center">
@@ -86,7 +86,7 @@ See [my website](https://mariesmith.me/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML, CSS</strong> - My portfolio website including links to my projects and ways to get in contact with me. Near-perfect Lighthouse score.</p>
+        <p><strong>JavaScript, HTML, CSS</strong> - My portfolio website including links to my projects and ways to get in contact with me. Near-perfect Lighthouse score.</p>
     </td>
 
 
@@ -106,7 +106,7 @@ See [my website](https://mariesmith.me/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML, CSS</strong> - Matching game featuring the talented performers of NYC-based, female-led GPC Entertainment Group.</p>
+        <p><strong>JavaScript, HTML, CSS</strong> - Matching game featuring the talented performers of NYC-based, female-led GPC Entertainment Group.</p>
     </td>
   </tr>
   
