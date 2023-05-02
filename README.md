@@ -18,7 +18,7 @@
   </a>
 </p>
 
-Software engineer based in New York City, previously a corporate project manager with a background in the arts and health sciences. 
+Software engineer based in New York City, with a background in the corporate project mangagement, health science and the arts. 
 Nurturing my passion for exploring challenges by programming things for the web.
 
 
@@ -86,7 +86,7 @@ See [my website](https://mariesmith.me/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>JavaScript, HTML, CSS</strong> - My portfolio website including links to my projects and ways to get in contact with me. Near-perfect Lighthouse score.</p>
+        <p><strong>JavaScript, HTML, CSS</strong> - My portfolio website including links to my projects and ways to get in contact with me.</p>
     </td>
 
 
