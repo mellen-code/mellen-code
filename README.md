@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://wellfound.com/u/marie-smith-11" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=WELLFOUND&color=cdf998&style=plastic"/>
   </a>
   <a href="https://mariesmith.me/#resume" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
@@ -162,7 +162,7 @@ See [my website](https://mariesmith.me/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://wellfound.com/u/marie-smith-11" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=WELLFOUND&color=cdf998&style=plastic"/>
   </a>
   <a href="https://mariesmith.me/#resume" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
