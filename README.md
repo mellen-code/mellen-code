@@ -10,7 +10,7 @@
   <a href="https://twitter.com/mellstar6" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://angel.co/u/marie-smith-11" target="_blank">
+  <a href="https://wellfound.com/u/marie-smith-11" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
   <a href="https://mariesmith.me/#resume" target="_blank">
@@ -18,34 +18,34 @@
   </a>
 </p>
 
-Software engineer based in New York City, with a background in the corporate project mangagement, health science and the arts. 
-Nurturing my passion for exploring challenges by programming things for the web.
+Software engineer based in New York City, with previous experience in corporate project mangagement, health science and the arts. 
+Love building and digging into the technical aspects of impactful applications.
 
 
 See [my website](https://mariesmith.me/) for more information!
 
-<!-- Projects: Met Museum, Portfolio, Roller Rink, Actress: -->
+<!-- Projects: Met Museum, Praise Folder, Match Game, ConfiDance: -->
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ariadne-ellis.com</h3>
+      <h3 align="center">Praise Folder</h3>
         <br />
-        <a target="_blank" href="https://ariadne-actress-model.netlify.app/">
-            <img src="https://media.giphy.com/media/qSBZ0vMEgivr8G24Ny/giphy.gif" width="100%" alt="Actress Website"/>
+        <a target="_blank" href="https://praisefolder.cyclic.app/">
+            <img src="https://media.giphy.com/media/bASX2PBLf0hYWCF2lS/giphy.gif" width="100%" alt="link to praise folder application"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/mellen-code/ariadne-ellis" target="_blank">
+  <a href="https://github.com/mellen-code/praise-folder" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://ariadne-actress-model.netlify.app/" target="_blank">
+  <a href="https://praisefolder.cyclic.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>JavaScript, HTML, CSS</strong> - Elegant and easy–to–view website showcasing a professional actress.</p>
+        <p><strong>Node, Express, JavaScript, MongoDB, Passport, Bootstrap, and EJS</strong> - Full stack web app to store the compliments, nice notes, praises and happy memories you've received, all in one place!</p>
     </td>
 
 
@@ -71,22 +71,22 @@ See [my website](https://mariesmith.me/) for more information!
 
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">mariesmith.me</h3>
+      <h3 align="center">ConfiDance</h3>
         <br />
-        <a target="_blank" href="https://mariesmith.me/">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RkY2ZjYWM5ZTc4NDAwMzQwOTJhNTQ4ZDU5MzcyMjgyYjE3ODNiMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/eukp4n5vbKaQ1V2hNx/giphy.gif" width="100%" alt="Portfolio Website"/>
+        <a target="_blank" href="https://confidance.cyclic.app/">
+            <img src="https://media.giphy.com/media/OXCaDWUVwy5ViA30od/giphy.gif" width="100%" alt="link to Confidance application"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/mellen-code/portfolio-website" target="_blank">
+  <a href="https://github.com/mellen-code/confiDance" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://mariesmith.me" target="_blank">
+  <a href="https://confidance.cyclic.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>JavaScript, HTML, CSS</strong> - My portfolio website including links to my projects and ways to get in contact with me.</p>
+        <p><strong>Node, Express, MongoDB, JavaScript, Passport & GoogleOAuth, Materialize, and Handlebars</strong> - Build self-confidence through movement, journaling, and tracking!</p>
     </td>
 
 
@@ -118,8 +118,8 @@ See [my website](https://mariesmith.me/) for more information!
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
-    <!-- <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=2b625f&style=plastic&logo=sass"/> -->
-    <!-- <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/> -->
+    <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=2b625f&style=plastic&logo=sass"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
     <img src="https://img.shields.io/static/v1?label=|&message=NODE&color=cbb148&style=plastic&logo=node"/>
@@ -136,6 +136,8 @@ See [my website](https://mariesmith.me/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBPACK&color=bbb111&style=plastic&logo=webpack"/>
     <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=EJS&color=9bb24e&style=plastic"/>
+    <img src="https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black)"/>
     <!-- <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cbb148&style=plastic&logo=firebase"/> -->
 
 </p>
@@ -159,7 +161,7 @@ See [my website](https://mariesmith.me/) for more information!
   <a href="https://twitter.com/mellstar6" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://angel.co/u/marie-smith-11" target="_blank">
+  <a href="https://wellfound.com/u/marie-smith-11" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
   <a href="https://mariesmith.me/#resume" target="_blank">
