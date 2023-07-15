@@ -18,8 +18,8 @@
   </a>
 </p>
 
-Software engineer based in New York City, with previous experience in corporate project mangagement, health science and the arts. 
-Love building and digging into the technical aspects of impactful applications.
+Software engineer based in New York City, with previous experience in project management, health sciences, and the arts. 
+Love building and digging into the technical aspects of applications that are designed to create positive impact in people's lives.
 
 
 See [my website](https://mariesmith.me/) for more information!
@@ -123,8 +123,8 @@ See [my website](https://mariesmith.me/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
     <img src="https://img.shields.io/static/v1?label=|&message=NODE&color=cbb148&style=plastic&logo=node"/>
-    <!-- <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/> -->
-    <!-- <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python"/> -->
+    <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python"/>
     <!-- <img src="https://img.shields.io/static/v1?label=|&message=JAVA&color=cdf998&style=plastic&logo=java"/> -->
     <!-- <img src="https://img.shields.io/static/v1?label=|&message=SOLIDITY&color=8fbc56&style=plastic&logo=solidity"/> -->
     <!-- <img src="https://img.shields.io/static/v1?label=|&message=SELENIUM&color=cdf998&style=plastic&logo=selenium"/> -->
