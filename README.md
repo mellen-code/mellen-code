@@ -19,17 +19,17 @@
 </p>
 
 Software engineer based in New York City, with previous experience in project management, health sciences, and the arts. 
-Love building and digging into the technical aspects of applications that are designed to create positive impact in people's lives.
+Love building and digging into the technical aspects of applications designed to create a positive impact in people's lives.
 
 
 See [my website](https://mariesmith.me/) for more information!
 
-<!-- Projects: Met Museum, Praise Folder, Match Game, ConfiDance: -->
+<!-- Projects: Met Museum, Praise Folder, Match Game, ConfiDance, National Parks: -->
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="50%" valign="top">
+<!--     <td width="50%" valign="top">
       <h3 align="center">Praise Folder</h3>
         <br />
         <a target="_blank" href="https://praisefolder.cyclic.app/">
@@ -47,9 +47,50 @@ See [my website](https://mariesmith.me/) for more information!
       </p>
         <p><strong>Node, Express, JavaScript, MongoDB, Passport, Bootstrap, and EJS</strong> - Full stack web app to store the compliments, nice notes, praises and happy memories you've received, all in one place!</p>
     </td>
+ -->
+
+ <td width="50%" valign="top">
+      <h3 align="center">National Parks app</h3>
+        <br />
+        <a target="_blank" href="https://nationalparksusa.netlify.app/">
+            <img src="https://media.giphy.com/media/clIHGpH2t8pjy5w17l/giphy.gif" width="100%" alt="link to national parks application"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/mellen-code/national-parks-app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://nationalparksusa.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React, Node, Material UI</strong> - React SPA app that enables users to pull up the details of America's national parks and monuments. Utilizes the National Park Services API.</p>
+    </td>
 
 
 <td width="50%" valign="top">
+      <h3 align="center">ConfiDance</h3>
+        <br />
+        <a target="_blank" href="https://confidance.cyclic.app/">
+            <img src="https://media.giphy.com/media/OXCaDWUVwy5ViA30od/giphy.gif" width="100%" alt="link to Confidance application"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/mellen-code/confiDance" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://confidance.cyclic.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Node, Express, MongoDB, JavaScript, Passport & GoogleOAuth, Materialize, and Handlebars</strong> - Build self-confidence through movement, journaling, and tracking!</p>
+</td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">The Metropolitan Museum of Art Generator</h3>
         <br />
         <a target="_blank" href="https://artgenerator-themetmuseum.netlify.app/">
@@ -67,28 +108,6 @@ See [my website](https://mariesmith.me/) for more information!
       </p>
         <p><strong>JavaScript, HTML, CSS</strong> - Browse the vast art collections of New York City's The Metropolitan Museum of Art, thanks to their comprehensive API.</p>
     </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">ConfiDance</h3>
-        <br />
-        <a target="_blank" href="https://confidance.cyclic.app/">
-            <img src="https://media.giphy.com/media/OXCaDWUVwy5ViA30od/giphy.gif" width="100%" alt="link to Confidance application"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/mellen-code/confiDance" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://confidance.cyclic.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Node, Express, MongoDB, JavaScript, Passport & GoogleOAuth, Materialize, and Handlebars</strong> - Build self-confidence through movement, journaling, and tracking!</p>
-    </td>
-
 
 <td width="50%" valign="top">
       <h3 align="center">Guilty Pleasures Cabaret Match Game</h3>
