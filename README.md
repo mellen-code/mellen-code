@@ -1,4 +1,4 @@
-<img src="images/name-banner.png" width="100%">
+<img src="images/name-banner.jpeg" width="100%">
 
 <p align="center">
   <a href="https://mariesmith.me/" target="_blank">
