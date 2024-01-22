@@ -145,7 +145,7 @@ See [my website](https://mariesmith.me/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python"/>
     <!-- <img src="https://img.shields.io/static/v1?label=|&message=JAVA&color=cdf998&style=plastic&logo=java"/> -->
-    <img src="https://img.shields.io/static/v1?label=|&message=SQL&color=8fbc56&style=plastic&logo=sql"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=SQL&color=8fbc56&style=plastic&logo=postgresql"/>
     <!-- <img src="https://img.shields.io/static/v1?label=|&message=SELENIUM&color=cdf998&style=plastic&logo=selenium"/> -->
     <!-- <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=98bf53&style=plastic&logo=amazon"/> -->
     <!-- <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=cdd148&style=plastic&logo=wordpress"/> -->
