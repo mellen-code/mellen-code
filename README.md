@@ -131,7 +131,7 @@ See [my website](https://mariesmith.me/) for more information!
   
 </table>
 
-<h1 align="center">Technologies</h1>
+<h1 align="center">Languages and Tools</h1>
 
 
 <p align="center">
@@ -145,7 +145,7 @@ See [my website](https://mariesmith.me/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python"/>
     <!-- <img src="https://img.shields.io/static/v1?label=|&message=JAVA&color=cdf998&style=plastic&logo=java"/> -->
-    <!-- <img src="https://img.shields.io/static/v1?label=|&message=SOLIDITY&color=8fbc56&style=plastic&logo=solidity"/> -->
+    <img src="https://img.shields.io/static/v1?label=|&message=SQL&color=8fbc56&style=plastic&logo=postgresql"/>
     <!-- <img src="https://img.shields.io/static/v1?label=|&message=SELENIUM&color=cdf998&style=plastic&logo=selenium"/> -->
     <!-- <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=98bf53&style=plastic&logo=amazon"/> -->
     <!-- <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=cdd148&style=plastic&logo=wordpress"/> -->
@@ -157,7 +157,7 @@ See [my website](https://mariesmith.me/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EJS&color=9bb24e&style=plastic"/>
-    <img src="https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black)"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=HANDLEBARS&color=F0772B&style=plastic&logo=handlebars"/>
     <!-- <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cbb148&style=plastic&logo=firebase"/> -->
 
 </p>
