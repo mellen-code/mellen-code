@@ -18,7 +18,7 @@
   </a>
 </p>
 
-Software engineer based in New York City, with a background in project management, health sciences, and the arts. 
+Implementation Developer at AudioEye, based in New York City, with previous background in project management, health sciences, and the arts. 
 I'm keen on building and digging into the technical aspects of applications designed to create a positive impact.
 
 
