@@ -18,8 +18,8 @@
   </a>
 </p>
 
-Implementation Developer at AudioEye, based in New York City, with previous background in project management, health sciences, and the arts. 
-I'm keen on building and digging into the technical aspects of applications designed to create a positive impact.
+Based in New York City, currently an Implementation Developer at AudioEye. Previous background in project management, health sciences, and the arts. 
+Keen on building and digging into the technical aspects of applications designed to create a positive impact.
 
 
 See [my website](https://mariesmith.me/) for more information!
