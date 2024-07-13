@@ -19,7 +19,7 @@
 </p>
 
 Based in New York City, currently an Implementation Developer at AudioEye. Previous background in project management, health sciences, and the arts. 
-Keen on building and digging into the technical aspects of applications designed to create a positive impact.
+Keen on building and digging into the technical aspects of applications designed to create positive impact.
 
 
 See [my website](https://mariesmith.me/) for more information!
@@ -72,7 +72,7 @@ See [my website](https://mariesmith.me/) for more information!
 <td width="50%" valign="top">
       <h3 align="center">ConfiDance</h3>
         <br />
-        <a target="_blank" href="https://confidance.cyclic.app/">
+        <a target="_blank" href="https://thorough-leodora-mariesmith-a32b1710.koyeb.app">
             <img src="https://media.giphy.com/media/OXCaDWUVwy5ViA30od/giphy.gif" width="100%" alt="link to Confidance application"/>
         </a>
         <br />
@@ -81,7 +81,7 @@ See [my website](https://mariesmith.me/) for more information!
   <a href="https://github.com/mellen-code/confiDance" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://confidance.cyclic.app/" target="_blank">
+  <a href="https://thorough-leodora-mariesmith-a32b1710.koyeb.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
